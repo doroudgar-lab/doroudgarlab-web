@@ -16,6 +16,7 @@ subtitle = ""
   user_groups = ["Principal Investigator",
                  "Postdoctoral Researchers",
                  "Grad Students",
+                  "Lab Members",
                  "Administration",
                  "Visitors",
                  "Alumni"]

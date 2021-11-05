@@ -9,7 +9,7 @@ title = ""
 subtitle = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "picture_with_rounded_corners.png"
+hero_media = "logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -76,6 +76,6 @@ function linkTo_UnCryptMailto( s )
 }
 // --> </script>
 
-Our lab focuses on the interplay of coding and non-coding RNAs, such as the novel class of circular RNAs in heart disease.
+The long-term goal of our research program is to better understand the age- and disease-linked deficits in protein homeostasis that contribute to disease-related cardiac dysfunction, and to use this understanding to identify cellular targets that may serve as viable new therapeutic candidates. 
 
-Moreover, we develop new computational tools that can be used by other researchers in their field of interest.
+A major research direction of our lab is to study how heart disease affects gene expression at the post-transcriptional level, which is of major importance for maintaining protein homeostasis. We also study adaptive responses of the heart mediated by proteins secreted by the heart, in order to define potential therapeutic approaches that use the heart’s natural defenses. 

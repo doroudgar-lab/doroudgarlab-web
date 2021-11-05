@@ -15,7 +15,7 @@ subtitle = "[Click for full list of publications](/publication/)"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,8 +25,8 @@ subtitle = "[Click for full list of publications](/publication/)"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "selected"
-    category = ""
+    tag = ""
+    category = "selected"
     publication_type = ""
     author = ""
     exclude_featured = false
@@ -68,5 +68,5 @@ subtitle = "[Click for full list of publications](/publication/)"
 +++
 
 {{% callout note %}}
-The full publication list can also be found in the [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/tobias.jakobi.1/bibliography/public/).
+The full publication list can also be found in the [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/1RWUbzd-Furkw/bibliography/public/).
 {{% /callout %}}

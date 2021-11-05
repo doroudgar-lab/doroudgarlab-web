@@ -88,7 +88,7 @@ email = ""
 phone = ""
 
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "475 N 5th St", city = "Phoenix", region = "AZ", postcode = "85008", country = "USA", country_code = "US"}
+address = {street = "475 N 5th St", city = "Phoenix", region = "AZ", postcode = "85004", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -108,7 +108,7 @@ directions = " Please register in the Biomedical Sciences Partnership Building (
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "@Jakobilab on Twitter", link = "https://twitter.com/Jakobilab"},
+#  {icon = "twitter", icon_pack = "fab", name = "@Jakobilab on Twitter", link = "https://twitter.com/Jakobilab"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -123,7 +123,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Jakobilab"
+twitter = ""
 
 ############################
 ## Regional Settings
@@ -253,7 +253,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "G-B1WSKW1WPD"
   google_tag_manager = ""
   google_site_verification = ""
 

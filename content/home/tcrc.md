@@ -54,4 +54,4 @@ hero_media = "tcrc.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The Jakobi Lab is part of the [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) at the [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/).
+The Doroudgar Lab is part of the [Translational Cardiovascular Research Center (TCRC)](https://phoenixmed.arizona.edu/tcrc) in the [Department of Internal Medicine](https://phoenixmed.arizona.edu/medicine) at the [The University of Arizona College of Medicine – Phoenix](https://phoenixmed.arizona.edu/).

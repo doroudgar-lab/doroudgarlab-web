@@ -26,7 +26,7 @@ subtitle = ""
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

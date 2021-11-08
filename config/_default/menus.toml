@@ -9,34 +9,34 @@
 #  weight = 10
 
 [[main]]
-  name = "PI"
-  url = "#pi"
-  weight =10
-
-[[main]]
-  name = "Jobs"
-  url = "#jobs"
-  weight = 20
-
-[[main]]
   name = "News"
   url = "post"
-  weight = 30
+  weight = 10
 
 [[main]]
-  name = "Research"
-  url = "#research"
-  weight = 40
+  name = "PI"
+  url = "#pi"
+  weight =19
 
 [[main]]
   name = "People"
   url = "#people"
-  weight =50
+  weight =20
+
+[[main]]
+  name = "Research"
+  url = "#research"
+  weight = 30
+
+[[main]]
+  name = "Jobs"
+  url = "#jobs"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Twitter"
@@ -47,3 +47,5 @@
   name = "Contact"
   url = "#contact"
   weight = 70
+
+

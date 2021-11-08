@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ER Stress Response"
+title: "The ER Stress Response"
 summary: "We previously discovered a novel molecular pathway known as the endoplasmic reticulum (ER) stress response, to be activated when cells or tissues are subjected to ischemia, the loss of oxygen and nutrients. Furthermore, we found that the activation of the ER stress response is necessary to protect cells from death during and after ischemia. In the first study to examine any ER-localized E3 ubiquitin-protein ligase in the heart, we found that cardiac pathology activates the previously unappreciated process of ER-associated protein degradation (ERAD), which moderates pathological cardiac myocyte remodeling. One of the highest impact findings of our work so far is that protein quality control in the ER of cardiac myocytes is a critical component of heart function."
 authors: 
 tags: 

@@ -9,7 +9,7 @@ title = ""
 subtitle = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "logo.png"
+hero_media = "heart_cut.png"
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL buildFuture"
+  command = "hugo --gc --minify -b $URL --buildFuture"
   publish = "public"
 
 [build.environment]

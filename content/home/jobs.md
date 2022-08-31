@@ -58,12 +58,6 @@ subtitle = ""
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-We are looking for a Postdoctoral Research Associate, Master's, and PhD students.
+If you are interested in joining our team, please contact us.
 
-
-<!-- We are looking for a Postdoctoral Research Associate, Master's and PhD students, and a Research Associate.
- -->
-
-{{< button "Apply to Postdoctoral Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/5066?c=arizona" >}}
-
-<!-- {{< button "Apply to Research Associate position" "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/5066?c=arizona/" >}} -->
+{{< button "Contact us" "#contact" >}}

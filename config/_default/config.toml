@@ -92,3 +92,6 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     path = "wowchemy-cms"
   [[module.imports]]
     path = "wowchemy"
+
+[security.funcs]
+  getenv = [ "^HUGO_", "^WC_" ]

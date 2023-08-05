@@ -60,3 +60,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<img src="media/group_08_2023.jpg" />
+

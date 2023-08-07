@@ -13,19 +13,19 @@
   {{ end }}
   {{ end }}
 
-  {{ if not (in (slice "event" "page" "research" "project") $page.Type) }}
-  <span class="article-date">
-    {{ $date := $page.Lastmod.Format site.Params.date_format }}
-    {{ if eq $page.Type "publication" }}
-      {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
-    {{ else }}
-      {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ i18n "last_updated" }}
-      {{ end }}
-    {{ end }}
-    {{ $date }}
-  </span>
-  {{ end }}
+<!--  {{ if not (in (slice "event" "page" "research" "project") $page.Type) }}-->
+<!--  <span class="article-date">-->
+<!--    {{ $date := $page.Lastmod.Format site.Params.date_format }}-->
+<!--    {{ if eq $page.Type "publication" }}-->
+<!--      {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}-->
+<!--    {{ else }}-->
+<!--      {{ if ne $page.Params.Lastmod $page.Params.Date }}-->
+<!--          {{ i18n "last_updated" }}-->
+<!--      {{ end }}-->
+<!--    {{ end }}-->
+<!--    {{ $date }}-->
+<!--  </span>-->
+<!--  {{ end }}-->
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
@@ -38,12 +38,12 @@
   </span>
   {{ end }}
 
-  {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    {{ $page.ReadingTime }} {{ i18n "minute_read" }}
-  </span>
-  {{ end }}
+<!--  {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}-->
+<!--  <span class="middot-divider"></span>-->
+<!--  <span class="article-reading-time">-->
+<!--    {{ $page.ReadingTime }} {{ i18n "minute_read" }}-->
+<!--  </span>-->
+<!--  {{ end }}-->
 
   {{/* Show Disqus comment count if enabled. */}}
   {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}

@@ -22,7 +22,7 @@ authors:
 - Mirko Völkers
 tags:
 - '"Myocardial infarction; Remodeling; S100A4"'
-categories: [selected]
+categories: 
 date: '2016-11-01'
 lastmod: 2021-09-23T13:35:05-07:00
 featured: false

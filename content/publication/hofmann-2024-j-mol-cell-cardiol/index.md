@@ -27,7 +27,7 @@ tags:
 - Proteostasis
 - Protein misfolding
 - Cardiac hypertrophy
-categories: []
+categories: [selected]
 date: '2024-01-01'
 lastmod: 2024-06-13T13:46:03-07:00
 featured: false
